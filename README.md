@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project is built as part of my learning journey in **React.js**. The primary goal is to gain hands-on experience by following a structured tutorial series and implementing concepts in a practical way.
+This projects is built as part of my learning journey in **React.js**. The primary goal is to gain hands-on experience by following a structured tutorial series and implementing concepts in a practical way.
 
 ## 🎯 Purpose
 
