@@ -1,0 +1,27 @@
+.button{
+background-color: var(--grey);
+color:white;
+padding:18px 10px;
+min-width: 220px;
+display: flex;
+align-items: center;
+gap: 8px;
+font-size:16px;
+font-weight: 60;
+cursor:pointer;
+}
+
+.second_btn{
+    background-color: white;
+    color:black;
+    padding:18px 10px;
+    min-width: 220px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size:16px;
+    font-weight: 60;
+    width:100%;
+    cursor:pointer;
+
+}
