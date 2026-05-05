@@ -12,7 +12,8 @@
   "dependencies": {
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
-    "style-component": "^0.0.1"
+    "style-component": "^0.0.1",
+    "styled-components": "^6.4.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
