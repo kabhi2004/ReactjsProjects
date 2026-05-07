@@ -1,4 +1,5 @@
 import Home from './Components/Home'
+import Game from './Components/Game'
 import './App.css'
 import {useState} from "react"
 
@@ -17,7 +18,6 @@ function App() {
   return (
     <>
     {isGameStarted?<Game/>:<Home  toggle={toggleGamePlay}/>}
-    <Home/>
     
    
      
